@@ -1,7 +1,7 @@
 # Snake-Game
-**-Aman Kulung**
+<h2>-Aman KULung</h2>
 
-<h4>To play this Snake game:</h4>
+<h3>To play this Snake game:</h3>
 
 **Movement: Use the arrow keys to control the snake's direction.**
 
